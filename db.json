@@ -1,0 +1,77 @@
+[
+   {
+      "picture": "https://randomuser.me/api/portraits/men/67.jpg",
+      "name": "Pranav Agarwal",
+      "email": "p10agarwal@gmail.com"
+    },
+    {
+      "picture": "https://randomuser.me/api/portraits/women/99.jpg",
+      "name": "Aishwarya Nair",
+      "email": "Achhunair22@gmail.com"
+    },
+    {
+      "picture": "https://randomuser.me/api/portraits/men/78.jpg",
+      "name": "Mukesh Agarwal",
+      "email": "mukeshag@gmail.com"
+    },
+    {
+      "picture": "https://randomuser.me/api/portraits/women/40.jpg",
+      "name": "Neetu Agarwal",
+      "email": "neetuag@gmail.com"
+    },
+    {
+      "picture": "https://randomuser.me/api/portraits/women/45.jpg",
+      "name": "Sitara Anumotu",
+      "email": "sitaish@gmail.com"
+    },
+    { 
+      "picture": "https://randomuser.me/api/portraits/women/23.jpg",
+      "name": "Kelsey Cox",
+      "email": "kelseycox@helixo.com"
+    },
+    {
+      "picture": "https://randomuser.me/api/portraits/women/19.jpg",
+      "name": "Maura Suarez",
+      "email": "maurasuarez@softmicro.com"
+    },
+    { 
+      "picture": "https://randomuser.me/api/portraits/men/50.jpg",
+      "name": "French Mendoza",
+      "email": "frenchmendoza@rodeology.com"
+    },
+    {
+      "picture": "https://randomuser.me/api/portraits/men/69.jpg",
+      "name": "Thompson Frazier",
+      "email": "thompsonfrazier@imaginart.com"
+    },
+    {
+      "picture": "https://randomuser.me/api/portraits/women/10.jpg",
+      "name": "Jerri Barber",
+      "email": "jerribarber@datacator.com"
+    },
+    {
+      "picture": "https://randomuser.me/api/portraits/men/80.jpg",
+      "name": "Sanford Thomas",
+      "email": "sanfordthomas@earwax.com"
+    },
+    {
+      "picture": "https://randomuser.me/api/portraits/women/87.jpg",
+      "name": "Luann Love",
+      "email": "luannlove@combogen.com"
+    },
+    {
+      "picture": "https://randomuser.me/api/portraits/men/26.jpg",
+      "name": "Dickerson Ashley",
+      "email": "dickersonashley@vantage.com"
+    },
+    {
+      "picture": "https://randomuser.me/api/portraits/men/99.jpg",
+      "name": "Yash Raj",
+      "email": "yashraj@gmail.com"
+    },
+    {
+      "picture": "https://randomuser.me/api/portraits/men/77.jpg",
+      "name": "Akshay Kumar",
+      "email": "akshay@gmail.com"
+    }
+  ]
