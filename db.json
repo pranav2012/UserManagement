@@ -1,4 +1,6 @@
-[
+{
+  "users":
+  [
    {
       "picture": "https://randomuser.me/api/portraits/men/67.jpg",
       "name": "Pranav Agarwal",
@@ -75,3 +77,4 @@
       "email": "akshay@gmail.com"
     }
   ]
+}
